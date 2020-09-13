@@ -1,0 +1,2 @@
+# lab1asp.Net
+Lab1.RUN_USE_DELEGATE_MAP
